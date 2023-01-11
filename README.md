@@ -52,7 +52,7 @@ composer require laravel/socialite
     }
 ```
 
-## Step 5: Enable mass assignment
+### Step 4: Enable mass assignment
 ```php
 // App\Models\User.php
 protected $fillable = [
