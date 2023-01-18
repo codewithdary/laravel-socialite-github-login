@@ -1,5 +1,5 @@
-# Product Dashboard [Laravel Nova]
-This is the official repository [ULTIMATE Laravel Nova Tutorial](https://www.youtube.com/watch?v=vBfaiZQDQrQ&feature=youtu.be) <br>
+# Laravel Socialite Tutorial
+This is the official repository [Let’s Build a GitHub Login Authentication in Laravel (Laravel, Socialite, Breeze)](https://www.youtube.com/watch?v=y3qna1JxuLg) <br>
 •	Twitter: [@codewithdary](https://twitter.com/codewithdary) <br>
 •	Instagram: [@codewithdary](https://www.instagram.com/codewithdary/) <br>
 •	TikTok: [@codewithdary](https://tiktok.com/@codewithdary) <br>
